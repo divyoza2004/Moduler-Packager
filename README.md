@@ -50,3 +50,14 @@ Create a Python-based Multi-Utility Toolkit that integrates multiple standard mo
 <a href="https://drive.google.com/file/d/1AatthUMYyYT7dHo0rPrh9x-oAviJh_4N/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/▶-Watch%20Demo%20Video-181717?style=for-the-badge&logo=github&logoColor=white" alt="Watch Demo Video" />
 </a>
+
+## Output of Code
+<img width="446" height="710" alt="image" src="https://github.com/user-attachments/assets/435d871f-d8d0-4266-9c32-a423f0b0f18a" /> 
+<img width="390" height="762" alt="image" src="https://github.com/user-attachments/assets/4d01c9a6-72b5-4161-ab68-bf50a7aa28d6" />
+<img width="340" height="858" alt="image" src="https://github.com/user-attachments/assets/0eb4be27-aa25-45fd-bdda-a76942aeef0d" />
+<img width="392" height="796" alt="image" src="https://github.com/user-attachments/assets/123e78eb-3162-4681-9e0a-d5ca02ecd38b" />
+<img width="470" height="838" alt="image" src="https://github.com/user-attachments/assets/f087601d-5bd1-4129-be3a-141f2765c703" />
+<img width="344" height="887" alt="image" src="https://github.com/user-attachments/assets/f2a798c5-06b2-42c3-9bd9-933afbed52ca" /> 
+<img width="465" height="720" alt="image" src="https://github.com/user-attachments/assets/916961cd-bfd3-40f8-8275-18a47db6c095" /> 
+<img width="322" height="863" alt="image" src="https://github.com/user-attachments/assets/81322b93-5a50-48de-adfb-9429d39dd7f1" />
+
